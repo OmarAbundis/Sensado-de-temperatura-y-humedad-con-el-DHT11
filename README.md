@@ -4,6 +4,8 @@
 
 En este trabajo se describe de que manera puede detectar la temperatura y la humedad ambiental utilizando el sensor DHT11 y el microcontrolador ESP32-CAM, para la adquisición de la señales provenientes del DHT11, su procesado y envío utilizando el bróker MOSQUITTO, así como una rápida verificación de su correcto funcionamiento.
 
+Para ello necesita tener conocimientos de programación en lenguaje C, para la programación del ESP32-CAM, utilizando la IDE de Arduino y básicos en el armado de circuitos electrónicos.
+
 ## Material necesario
 
 - 1 [ESP32CAM](https://docs.ai-thinker.com/en/esp32-cam). Tarjeta de desarrollo
