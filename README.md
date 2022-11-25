@@ -1,5 +1,6 @@
 # Sensado-de-temperatura-y-humedad-con-el-DHT11
-En este trabajo se describe de qué manera se puede utilizar el sensor de temperatura y el ESP32CAM para el sensado de temperatura y humedad.
+
+En este trabajo se describe de que manera puede detectar la temperatura y la humedad ambiental utilizando el sensor DHT11 y el microcontrolador ESP32-CAM, para la adquisición de la señales provenientes del DHT11, su procesado y envío utilizando el bróker MOSQUITTO, así como una rápida verificación de su correcto funcionamiento.
 
 ## Introducción
 
