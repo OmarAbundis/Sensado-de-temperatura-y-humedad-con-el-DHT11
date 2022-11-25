@@ -1,1 +1,0 @@
-Figuras de circuitos
