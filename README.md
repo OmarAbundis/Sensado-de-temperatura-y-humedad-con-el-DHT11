@@ -60,6 +60,13 @@ En la tabla 1, se puede observar la correspondencia de las terminales que se deb
 | 5V        | Vcc  |
 | GND       | GND  |
 
+2. Abrir su IDE de Arduino, elegir el microcontrolador a utilizar, ESP32-CAM, y escribir el [código de control]( Programa de control de Sensado de temperatura y humedad con el DHT11 · OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11@fd1d906 (github.com))
+3. Corroborar que no haya errores de sintaxis.
+4. Conectar su ESP32-CAM mediante el cable USB a USB mini.
+5. Poner en modo de programación tú ESP32-CAM.
+6. Cargar el programa de control.
+
+
 ## Instrucciones de operación
 
 ## Resultados
