@@ -62,7 +62,7 @@ Adicional a lo ya indicado en líneas superiores, también es necesario contar c
 
 **Figura 1.** *Circuito Electrónico de Control y Adquisición de Temperatura y Humedad*.
 
-![Circuito de control]()
+![Circuito de control](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/ESP32%20CAM%20y%20DTH11_proyecto.PNG)
 
 En la tabla 1, se puede observar la correspondencia de las terminales que se deben de conectar entre el ESP32-CAM y el DHT11.
 
