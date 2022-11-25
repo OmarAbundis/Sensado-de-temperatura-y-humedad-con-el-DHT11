@@ -69,6 +69,14 @@ En la tabla 1, se puede observar la correspondencia de las terminales que se deb
 
 ## Instrucciones de operación
 
+Ya habiendo comprobado que el programa fue cargado de manera exitosa, ya puedes proceder con la verificación de su funcionamiento, de la siguiente manera:
+
+1. Ve a la terminal con que cuenta el IDE de Arduino.
+2. Asegúrate de que este a la velocidad de 115200.
+3. Oprime el botón de “reset” con que cuenta el ESP32-CAM.
+4. Y si todo a salido bien, se observará el desplegado de los datos.
+
+
 ## Resultados
 
 ## Evidencias
