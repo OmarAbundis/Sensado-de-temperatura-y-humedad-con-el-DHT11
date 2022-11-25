@@ -8,16 +8,7 @@ En este trabajo se describe de qué manera se puede utilizar el sensor de temper
 - 1 [ESP32CAM](https://docs.ai-thinker.com/en/esp32-cam). Tarjeta de desarrollo
 - 1 [FTDI](https://ftdichip.com/wp-content/uploads/2020/08/DS_FT232R.pdf). Tarjeta controladora USB
 - 1 [DHT11](https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf). Sensor de temperatura y humedad
-- 1 [HX711](https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf). ADC-24 bits para escalas de peso.
-- 1 [Celda de carga para 20Kg.](https://naylampmechatronics.com/sensores/157-celda-de-carga-20kg.html). También conocida como galga extensiométrica.
-- 1 Resistor de 100ohms. (Café,Negro,Café,Dorado)
-- 1 Resistor de 220ohms. (Rojo,Rojo,Café,Dorado)
-- 1 Resistor de 330ohms. (Naranja,Naranja,Café,Dorado)
-- 1 Resistor de 360ohms. (Naranja,Azul,Café,Dorado)
 - 1 Resistor de 10Kohms. (Café,Negro,Naranja,Dorado)
-- 1 BT137 (TRIAC)
-- 1 [MOC3043, optoacoplador](https://www.datasheetq.com/MOC3043-doc-Motorola)
-- 1 Capacitor de 10nF (103)
 - 1 cable USB a USB mini.
 - Jumpers MM.
 
@@ -69,9 +60,9 @@ Adicional a lo ya indicado en líneas superiores, también es necesario contar c
 
 1.  Se debe de armar el circuito electrónico mostrado en la figura 1, teniendo cuidado de conectar a las terminales indicadas del ESP32-CAM, y cuidar la polaridad de los dispositivos.
 
-**Figura 1.** *Circuito Electrónico de Control y Adquisición de Peso, Temperatura y Humedad, y Control de Carga*.
+**Figura 1.** *Circuito Electrónico de Control y Adquisición de Temperatura y Humedad*.
 
-![Circuito de control](https://github.com/OmarAbundis/Habeetat-Colmena-saludable/blob/main/Control_Sensores_Temp_Hum_Peso/Imagenes/Circuito%20de%20control%20de%20peso_temperatura%20humedad%20y%20carga.png)
+![Circuito de control]()
 
 En la tabla 1, se puede observar la correspondencia de las terminales que se deben de conectar entre el ESP32-CAM y el DHT11.
 
