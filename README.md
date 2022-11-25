@@ -22,9 +22,7 @@ En la experimentación de está práctica se debe de contar con el siguiente sof
 - Ubuntu 20.04
 - Arduino IDE
 - Mosquitto MQTT Broker, Listener en puerto 1883 para 0.0.0.0 y conexiones autentificadas activadas.
-- NodeJS. NPM, NodeRed y Node Dashboard.
-- MySQL
-- Grafana
+- NodeRed y Node Dashboard.
 
 ## Material de referencia
 
