@@ -65,7 +65,7 @@ En la siguiente tabla, se puede observar la correspondencia de las terminales qu
 ![A004](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A004.JPG)
 
 4. Conectar su ESP32-CAM mediante el cable USB a USB mini.
-5. Poner en modo de programación tú ESP32-CAM.
+5. Poner en modo de programación tu ESP32-CAM.
 6. Cargar el programa de control.
 
 ![A005](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A005.JPG)
