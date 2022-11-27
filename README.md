@@ -44,15 +44,11 @@ Adicional a lo ya indicado en líneas superiores, también es necesario contar c
 
 **Nota:** Se recomienda revisar la información previamente citada, antes de comenzar con el armado del circuito electrónico, para reducir la probabilidad de realizar malas conexiones entre los dispositivos, fallas en la polarización y en consecuencia el daño permanente de los dispositivos o daño parcial o total de su equipo de cómputo.
 
-1.  Se debe de armar el circuito electrónico mostrado en la figura 1, teniendo cuidado de conectar a las terminales indicadas del ESP32-CAM, y cuidar la polaridad de los dispositivos.
+1.  Se debe de armar el circuito electrónico mostrado en la siguiente figura, teniendo cuidado de conectar a las terminales indicadas del ESP32-CAM, y cuidar la polaridad de los dispositivos.
 
-**Figura 1.** *Circuito Electrónico de Control y Adquisición de Temperatura y Humedad*.
+![A002](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/ESP32%20CAM%20y%20DTH11_proyecto.PNG)
 
-![Circuito de control](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/ESP32%20CAM%20y%20DTH11_proyecto.PNG)
-
-En la tabla 1, se puede observar la correspondencia de las terminales que se deben de conectar entre el ESP32-CAM y el DHT11.
-
-**Tabla 1.** *Terminales de Conexión de ESP32-CAM a DHT11*.
+En la siguiente tabla, se puede observar la correspondencia de las terminales que se deben de conectar entre el ESP32-CAM y el DHT11.
 
 | ESP32-CAM | DTH11|
 | ----------|------|
