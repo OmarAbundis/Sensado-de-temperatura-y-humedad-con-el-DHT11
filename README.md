@@ -105,7 +105,7 @@ Para corroborar que se están transmitiendo correctamente los valores de tempera
 
 ![A012](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A012.JPG)
 
-3.	Y se observaran los valores que se están transmitiendo, en donde ya puede someter al sensor a prueba para la detección de sus variables de entorno, por ejemplo exhalando cerca del sensor DHT11.
+3.	Y se observaran los valores que se están transmitiendo, en donde ya puedes someter al sensor a prueba para la detección de sus variables de entorno, por ejemplo exhalando cerca del sensor DHT11.
 
 ![A013](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A013.JPG)
 
