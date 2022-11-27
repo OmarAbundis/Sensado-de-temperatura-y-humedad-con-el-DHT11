@@ -46,7 +46,7 @@ Adicional a lo ya indicado en líneas superiores, también es necesario contar c
 
 1.  Se debe de armar el circuito electrónico mostrado en la siguiente figura, teniendo cuidado de conectar a las terminales indicadas del ESP32-CAM, y cuidar la polaridad de los dispositivos.
 
-![A002](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/ESP32%20CAM%20y%20DTH11_proyecto.PNG)
+![A002](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A002.JPG)
 
 En la siguiente tabla, se puede observar la correspondencia de las terminales que se deben de conectar entre el ESP32-CAM y el DHT11.
 
@@ -57,20 +57,35 @@ En la siguiente tabla, se puede observar la correspondencia de las terminales qu
 | GND       | GND  |
 
 2. Abrir su IDE de Arduino, elegir el microcontrolador a utilizar, ESP32-CAM, y escribir el [código de control](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/Programa%20de%20control/Sensado-de-temperatura-y-humedad-con-el-DHT11/Sensado-de-temperatura-y-humedad-con-el-DHT11.ino)
+
+![A003](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A003.JPG)
+
 3. Corroborar que no haya errores de sintaxis.
+
+![A004](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A004.JPG)
+
 4. Conectar su ESP32-CAM mediante el cable USB a USB mini.
 5. Poner en modo de programación tú ESP32-CAM.
 6. Cargar el programa de control.
 
+![A005](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A005.JPG)
 
 ## Instrucciones de operación
 
 Ya habiendo comprobado que el programa fue cargado de manera exitosa, ya puedes proceder con la verificación de su funcionamiento, de la siguiente manera:
 
 1. Ve a la terminal con que cuenta el IDE de Arduino.
+
+![A006](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A006.JPG)
+
 2. Asegúrate de que este a la velocidad de 115200.
+
+![A007](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A007.JPG)
+
 3. Oprime el botón de “reset” con que cuenta el ESP32-CAM.
 4. Y si todo a salido bien, se observará el desplegado de los datos.
+
+![A008](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A008.JPG)
 
 
 ## Resultados
