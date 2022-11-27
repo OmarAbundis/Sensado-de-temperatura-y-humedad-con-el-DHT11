@@ -40,7 +40,7 @@ Adicional a lo ya indicado en líneas superiores, también es necesario contar c
 
 [HiveMQ](https://www.hivemq.com/public-mqtt-broker/). Es un broker público y que no demanda de contar con una cuenta.
 
-## Instrucciones para realizar el control del circuito de sensado de variables
+## Instrucciones para realizar el circuito electrónico y su programación
 
 **Nota:** Se recomienda revisar la información previamente citada, antes de comenzar con el armado del circuito electrónico, para reducir la probabilidad de realizar malas conexiones entre los dispositivos, fallas en la polarización y en consecuencia el daño permanente de los dispositivos o daño parcial o total de su equipo de cómputo.
 
