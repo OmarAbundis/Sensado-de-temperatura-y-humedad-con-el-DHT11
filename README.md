@@ -90,7 +90,26 @@ Ya habiendo comprobado que el programa fue cargado de manera exitosa, ya puedes 
 
 ## Resultados
 
-## Evidencias
+Para corroborar que se están transmitiendo correctamente los valores de temperatura y humedad obtenidos con el sensor DHT11, procesados y transmitidos por WI-FI por el ESP32-CAM:
+
+1.	Se abre una terminal en Ubuntu 20.04
+
+[A010]
+
+2.	Se realiza la subscripción al Bróker que se estableció en el programa.
+  
+  Parte del programa en donde se realizó la subscripción realizada en el programa. Recuerda que en la realización de tu programa, tu tienes que generar uno propio.
+
+[A011]
+
+  Subscripción en la terminal.
+
+[A012]
+
+3.	Y se observaran los valores que se están transmitiendo, en donde ya puede someter al sensor a prueba para la detección de sus variables de entorno, por ejemplo exhalando cerca del sensor DHT11.
+
+[A013]
+
 
 ## Preguntas frecuentes
 
