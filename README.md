@@ -83,7 +83,7 @@ Ya habiendo comprobado que el programa fue cargado de manera exitosa, ya puedes 
 ![A007](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A007.JPG)
 
 3. Oprime el botón de “reset” con que cuenta el ESP32-CAM.
-4. Y si todo a salido bien, se observará el desplegado de los datos.
+4. Y si todo ha salido bien, se observará el desplegado de los datos.
 
 ![A008](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A008.JPG)
 
