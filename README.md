@@ -87,32 +87,31 @@ Ya habiendo comprobado que el programa fue cargado de manera exitosa, ya puedes 
 
 ![A008](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A008.JPG)
 
-
 ## Resultados
 
 Para corroborar que se están transmitiendo correctamente los valores de temperatura y humedad obtenidos con el sensor DHT11, procesados y transmitidos por WI-FI por el ESP32-CAM:
 
 1.	Se abre una terminal en Ubuntu 20.04
 
-[A010]
+![A010](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A010.JPG)
 
 2.	Se realiza la subscripción al Bróker que se estableció en el programa.
   
   Parte del programa en donde se realizó la subscripción realizada en el programa. Recuerda que en la realización de tu programa, tu tienes que generar uno propio.
 
-[A011]
+![A011](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A011.JPG)
 
   Subscripción en la terminal.
 
-[A012]
+![A012](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A012.JPG)
 
 3.	Y se observaran los valores que se están transmitiendo, en donde ya puede someter al sensor a prueba para la detección de sus variables de entorno, por ejemplo exhalando cerca del sensor DHT11.
 
-[A013]
+![A013](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A013.JPG)
 
 
 ## Preguntas frecuentes
 
-## Compatibilidad
-
 ## Créditos
+
+Profesor Hugo Vargas, maestro del curso de Internet de la cosas para el grupo 7.
