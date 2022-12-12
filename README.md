@@ -1,8 +1,8 @@
-# Sensado-de-temperatura-y-humedad-con-el-DHT11
+# Sensado de temperatura y humedad con el DHT11
 
 ## Introducción
 
-En este trabajo se describe de que manera puede detectar la temperatura y la humedad ambiental utilizando el sensor DHT11 y el microcontrolador ESP32-CAM, para la adquisición de la señales provenientes del DHT11, su procesado y envío utilizando el bróker MOSQUITTO, así como una rápida verificación de su correcto funcionamiento.
+En este trabajo se describe de qué manera puede detectar la temperatura y la humedad ambiental utilizando el sensor DHT11 y el microcontrolador ESP32-CAM, para la adquisición de la señales provenientes del DHT11, su procesado y envío utilizando el bróker MOSQUITTO, así como una rápida verificación de su correcto funcionamiento.
 
 Para ello necesita tener conocimientos de programación en lenguaje C, para la programación del ESP32-CAM, utilizando la IDE de Arduino y básicos en el armado de circuitos electrónicos.
 
@@ -26,7 +26,7 @@ En la experimentación de está práctica se debe de contar con el siguiente sof
 
 ## Material de referencia
 
-Previamente a la realización de está práctica, ha sido necesario el estudio de distitos temas, que se encuentran en la plataforma [edu.codigoiot.com](https://www.codigoiot.com/), en donde se explican conceptos y configuraciones necesarias, tales como:
+Previamente a la realización de está práctica, ha sido necesario el estudio de distintos temas, que se encuentran en la plataforma [edu.codigoiot.com](https://www.codigoiot.com/), en donde se explican conceptos y configuraciones necesarias, tales como:
 
 - Instalación de virtual Box y Ubuntu 20.04
 - Configuración de Arduino IDE para ESP32CAM
@@ -95,17 +95,17 @@ Para corroborar que se están transmitiendo correctamente los valores de tempera
 
 ![A010](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A010.JPG)
 
-2.	Se realiza la subscripción al Bróker que se estableció en el programa.
+2.	Se realiza la suscripción al Bróker que se estableció en el programa.
   
-  Parte del programa en donde se realizó la subscripción realizada en el programa. Recuerda que en la realización de tu programa, tu tienes que generar uno propio.
+  Parte del programa en donde se realizó la suscripción realizada en el programa. Recuerda que en la realización de tu programa, tu tienes que generar uno propio.
 
 ![A011](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A011.JPG)
 
-  Subscripción en la terminal.
+  Suscripción en la terminal.
 
 ![A012](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A012.JPG)
 
-3.	Y se observaran los valores que se están transmitiendo, en donde ya puedes someter al sensor a prueba para la detección de sus variables de entorno, por ejemplo exhalando cerca del sensor DHT11.
+3.	Y se observarán los valores que se están transmitiendo, en donde ya puedes someter al sensor a prueba para la detección de sus variables de entorno, por ejemplo exhalando cerca del sensor DHT11.
 
 ![A013](https://github.com/OmarAbundis/Sensado-de-temperatura-y-humedad-con-el-DHT11/blob/main/figuras/A013.JPG)
 
