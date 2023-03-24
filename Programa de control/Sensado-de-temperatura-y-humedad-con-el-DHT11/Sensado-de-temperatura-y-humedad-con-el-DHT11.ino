@@ -63,8 +63,8 @@ const char* password = "4520297937";      // Aquí debes poner la contraseña de
 
 //Datos del broker MQTT
 
-const char* mqtt_server = "10.0.2.15"; // Si estas en una red local, coloca la IP asignada, en caso contrario, coloca la IP publica
-IPAddress server(10,0,2,15);
+const char* mqtt_server = "192.168.1.69"; // Si estas en una red local, coloca la IP asignada, en caso contrario, coloca la IP publica
+IPAddress server(192,168,1,69);
 
 #define DHTTYPE DHT11                     // DHT 11
 #define DHTPIN 2                          // Digital pin connected to the DHT sensor
